@@ -1,5 +1,9 @@
 [
     {
+        "name": "Nimvelo",
+        "colors": ["#26a0da", "#314755"]
+    },
+    {
         "name": "Noon to Dusk",
         "colors": ["#ff6e7f", "#bfe9ff"]
     },
